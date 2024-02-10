@@ -7,7 +7,7 @@ I'm a Front-end Developer from London.
 - Projects that I have recently worked on:
   - CvPuzzle, a tool for creating resume -> https://github.com/illonab/cvpuzzle
   - My portfolio -> https://ilonaweb.dev/
-- 🌱 I’m always looking to learn new things. Currently learning Next.js.
+- 🌱 I’m always looking to learn new things. Currently learning Redux and Typescript.
 - 📫 How to reach me - https://www.linkedin.com/in/ilona-beshchuk/
 
 
