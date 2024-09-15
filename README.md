@@ -3,7 +3,7 @@ Hey there, I'm <a href="https://www.linkedin.com/in/ilona-beshchuk/" target="_bl
 I'm a Front-end Developer from London.
 
 - 💻 I have experience with Next.js, TypeScript, React.js, JavaScript, Node.js, Express.js, Tailwindcss, HTML, CSS (SASS, SCSS), Bootstrap, SQL, MongoDB.
-- 🔭 I’m currently learning how to code in the Bootcamp.
+- 🔭 I am a graduate of the BrainStation Web Development Diploma Program and completed a 4-month full-stack development bootcamp at The Developer Academy.
 - Projects that I have recently worked on:
   - CvPuzzle, a tool for creating resume -> https://github.com/illonab/cvpuzzle
   - My portfolio -> https://ilonaweb.dev/
